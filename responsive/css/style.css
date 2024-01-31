@@ -81,6 +81,9 @@ margin: var(--general-margin);
 border: 1px solid var(--grey-foreground-color);
 }
 
+article h3{margin: var(--general-margin);}
+article p{margin: var(--general-margin);line-height: 1.5;}
+
 article div img{
 height: 500px;
 width: 100%;
